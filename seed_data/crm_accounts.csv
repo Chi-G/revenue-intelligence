@@ -1,0 +1,121 @@
+account_id,name,industry,company_size,annual_revenue,country,owner_id,status
+4b709327-bee6-48f5-bc26-f16eea9e7b62,Underwood LLC,Software,1-50,11322579.75,Iran,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Churned
+7b2f9025-a70a-4a5a-913f-a5e7e758fe76,Jones-Gentry,Software,1000+,10342463.71,Montenegro,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Prospect
+978c600d-fd09-44fa-8926-19c9b272e310,"Edwards, Rios and Foster",Fintech,501-1000,29668651.35,United States Virgin Islands,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+eb239d04-5bb0-4765-8a77-5df400655c6f,"Ellis, Baker and Wright",Education,501-1000,17342400.57,Monaco,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+c098f654-79a2-4231-830b-25657791ca80,"Baker, Richards and Hurst",Healthcare,1-50,5090919.25,Iran,e59b2c61-87cd-4584-a516-cf537e007e77,Active
+d0f17a53-4613-4aa4-92f5-84c5153145bd,Robinson-Bright,Healthcare,1000+,13593782.93,Malawi,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Prospect
+de3adeab-4388-44bf-9925-3ca7c4ec1f17,Davis-Williams,Retail,1-50,48669230.32,Bouvet Island (Bouvetoya),e3203511-a249-4e5f-bf78-c6f03e33a5e9,Active
+dc41563c-f28e-425a-90c9-5c65711686db,Burton Ltd,Retail,201-500,41555530.88,Jamaica,952ff225-55cf-4bb9-8fa5-a15a99370db1,Active
+da30e153-d0bf-4ec4-a451-94d20b513d2c,"Brown, James and Ferrell",Retail,51-200,35376305.89,Marshall Islands,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+3b3735ad-bab6-4d3b-a25a-25e3ebe494d7,Maddox-Valencia,Healthcare,1-50,42838227.19,Algeria,e59b2c61-87cd-4584-a516-cf537e007e77,Prospect
+c8c375c7-a350-4bdc-ace4-40c3bf928ab1,"Le, Maldonado and Herrera",Healthcare,501-1000,31966379.99,Ethiopia,c80a00e5-95ef-44de-b514-aea8db6912a3,Active
+3be95b11-c8b9-4fdf-b0a8-4bfe24742971,"Peterson, Carter and Moore",Healthcare,201-500,10870598.02,Afghanistan,d5890796-ac76-468e-92d8-09fd70046c44,Active
+7b0c1c7a-68fc-43a0-b790-bf2fccf14e25,"Liu, Baker and Mason",Retail,51-200,26939923.91,Christmas Island,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+edcaa32a-661a-46a8-bafb-0c5051f0ce9e,"Gaines, Harrell and Evans",Manufacturing,501-1000,13862417.43,Northern Mariana Islands,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+2883d03e-8799-49d0-a3c2-b445f8863258,"Lynch, Hernandez and Farmer",Education,201-500,42221170.05,Mauritius,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+f64f0691-0288-4708-a663-04f9a625be4e,"Sellers, George and Burns",Software,201-500,20357656.96,Bouvet Island (Bouvetoya),e59b2c61-87cd-4584-a516-cf537e007e77,Active
+1e59583d-a7ac-42cf-b927-92d159a9191e,Koch-Decker,Retail,201-500,11025013.93,Gambia,4ac8ece6-da0f-4857-b691-10cf6dacca56,Prospect
+da2f5df5-37f6-422e-a425-4f405c713430,Brown PLC,Education,501-1000,7572143.73,Yemen,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+24d012e4-8041-4024-abfe-a46428fe865e,Miller Group,Education,1000+,27179375.84,Suriname,952ff225-55cf-4bb9-8fa5-a15a99370db1,Prospect
+4a947cf0-a1b9-42a6-a00d-e4159408c67e,Spence PLC,Retail,501-1000,18418823.96,Seychelles,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Churned
+debcc6e8-b2b3-4ada-af5a-a67729d03426,Anderson Group,Manufacturing,1-50,37911216.8,Yemen,e59b2c61-87cd-4584-a516-cf537e007e77,Active
+ae44ad45-9a93-4cfe-ac30-30ccf933758f,"Martin, Rose and Obrien",Education,51-200,39707928.54,Croatia,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Churned
+d8bfaf42-a983-43e6-8837-c614ddaca5c1,"Campos, Vaughn and Marquez",Software,501-1000,19390154.68,Iran,4ac8ece6-da0f-4857-b691-10cf6dacca56,Churned
+718cb948-5664-405c-ba3d-ec59f8c15853,"Santos, Kim and Holmes",Healthcare,1000+,43108595.26,British Indian Ocean Territory (Chagos Archipelago),29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+f3a0fe66-5208-4e5e-bba3-2f38a17aaf10,Walker LLC,Education,1000+,37668451.08,Angola,c80a00e5-95ef-44de-b514-aea8db6912a3,Active
+a4def9ba-b78c-4c1b-8caf-07f11e4fab98,"Spencer, Chapman and Smith",Healthcare,501-1000,8328808.84,Russian Federation,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+810eed78-4619-48f3-9259-277bf323b926,"Brown, Jones and Johnson",Retail,51-200,25630242.89,Greenland,e59b2c61-87cd-4584-a516-cf537e007e77,Active
+5a380e38-023f-4505-add3-b6ab303adb27,Palmer LLC,Education,1000+,30644025.47,Paraguay,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+c9f326b1-6491-4b1a-a979-ad0d2f224df5,Lewis-Anderson,Fintech,1000+,47698237.51,Vietnam,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+d6cd74f3-390a-4fc6-8ebb-35fe42b01a8e,"Johnston, Sanchez and Kennedy",Retail,201-500,24685982.55,Ireland,e59b2c61-87cd-4584-a516-cf537e007e77,Active
+322c2176-ce80-499a-996a-2453451c8fe3,Davis Ltd,Healthcare,51-200,3367295.74,Jersey,952ff225-55cf-4bb9-8fa5-a15a99370db1,Active
+814f183a-2786-4c30-aa87-9165850aad3c,Henderson-Owens,Software,501-1000,40893151.04,Saint Lucia,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+1b446616-2104-4d15-b8c7-f7e1bba45632,Nunez Ltd,Fintech,501-1000,47369009.65,Bolivia,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+c8f20d96-2fb1-4c37-9f10-deccb1e375f7,Powell LLC,Retail,1000+,21445328.04,South Georgia and the South Sandwich Islands,cfd43488-1975-45ad-9191-e49884bb93a3,Churned
+3fb65efb-3f5d-464d-b6e8-89a1013a007c,Wright and Sons,Education,51-200,35790974.15,Mauritania,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Active
+cf2f48be-2d49-4efb-a49e-6c594f0f5353,Taylor-White,Manufacturing,1000+,22848564.0,Kyrgyz Republic,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+04d9f2ef-5a0c-4ef7-b2bf-25d951a8ac1f,Baxter Inc,Software,201-500,1541195.87,Kenya,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+b3ceffd0-2e16-4b01-8940-f7df94e5b5c4,"Garcia, Pearson and Fernandez",Retail,51-200,855946.53,American Samoa,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+2b0ab2ee-035d-4cab-9916-c9cee81221e5,House and Sons,Software,1-50,43051952.31,Chad,e59b2c61-87cd-4584-a516-cf537e007e77,Churned
+9ed38ecf-01f3-46e3-b09b-07225794de45,Tucker-Lewis,Fintech,201-500,33614400.03,Iran,cfd43488-1975-45ad-9191-e49884bb93a3,Churned
+5d7506f0-2adf-4da6-abf1-3d2802e5152f,Martin Inc,Fintech,1000+,29022476.66,Iceland,cfd43488-1975-45ad-9191-e49884bb93a3,Prospect
+3c230bec-ceb1-41df-b2f2-ff5f5f5f1ac3,House-Glover,Manufacturing,51-200,5169126.93,France,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Active
+9773ead9-f243-4e96-a399-88e67ca561c8,Horton-Cross,Manufacturing,501-1000,23617721.07,Slovenia,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+de1bc611-c498-42e6-8370-5988ddda191c,"Stanley, Tucker and Lee",Software,501-1000,36546572.63,Cuba,e59b2c61-87cd-4584-a516-cf537e007e77,Active
+f88bbecc-cf82-4c2a-8e77-5408431e2cda,Riley PLC,Fintech,51-200,27046144.82,Bahamas,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Prospect
+8ba5166f-4121-41d1-b984-99d5ac2420c8,"Edwards, Williams and Woods",Fintech,201-500,23400089.39,Uruguay,e59b2c61-87cd-4584-a516-cf537e007e77,Prospect
+4ce06bb1-4016-4ed4-86ec-83df81cd4cfd,"Moore, Yu and Miller",Retail,1-50,3004122.31,Colombia,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+b873a003-2978-444f-9b53-d1149177426e,Larson Ltd,Software,51-200,8732399.97,Tokelau,4ac8ece6-da0f-4857-b691-10cf6dacca56,Prospect
+9bd979ee-c3e2-4bed-945a-697f8810178d,Powell PLC,Fintech,501-1000,45170921.84,Egypt,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Prospect
+7229244e-53b0-4a2d-ac24-12f84f75c302,"Wheeler, Harvey and Barnes",Software,501-1000,13627551.38,Myanmar,4ac8ece6-da0f-4857-b691-10cf6dacca56,Active
+03c3f251-2f2d-41ae-905c-a0fba8d72e87,"Mills, Donovan and Harris",Manufacturing,1000+,33262629.94,Saint Barthelemy,4ac8ece6-da0f-4857-b691-10cf6dacca56,Active
+30394e4e-73e5-4164-a125-6c6d15fb0a1c,Allen-Foster,Fintech,201-500,11276194.47,Paraguay,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Churned
+62a4dd81-bd1e-4cf5-b238-9e0c1d65eac0,"Evans, Stewart and Walton",Education,1000+,3517399.79,Barbados,c80a00e5-95ef-44de-b514-aea8db6912a3,Active
+e8de9231-52f1-4955-a1f8-bade85b345c7,Ellis PLC,Software,1000+,24101031.6,Bolivia,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+acccfa73-68c1-4f6a-9039-45ebf8ad58cc,Medina PLC,Software,1000+,4465517.53,Estonia,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+11d30148-2e86-4cc0-9190-fa5bfe1ea3f9,Mahoney Inc,Retail,1-50,33923021.4,Turkmenistan,cfd43488-1975-45ad-9191-e49884bb93a3,Prospect
+5e41d8cf-e84e-4905-b25e-69c1bf74ba65,Wood and Sons,Software,1000+,12687659.72,Kazakhstan,952ff225-55cf-4bb9-8fa5-a15a99370db1,Active
+97d4e685-6359-4fd7-873d-0a3538b8af50,"Warner, Carr and Archer",Retail,1-50,21251633.31,Palau,952ff225-55cf-4bb9-8fa5-a15a99370db1,Churned
+a93e484e-6d8a-47a2-a402-dd34df876393,"Smith, Montoya and Evans",Retail,201-500,46767959.76,Panama,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+2c5d0c16-3140-4147-b6d2-896dd3e0e28d,Mcmillan and Sons,Fintech,201-500,20091399.42,Estonia,d5890796-ac76-468e-92d8-09fd70046c44,Prospect
+2ba14fd6-23eb-4237-9157-ba20706b169a,Preston Ltd,Healthcare,1-50,961115.12,Micronesia,952ff225-55cf-4bb9-8fa5-a15a99370db1,Churned
+c313d77f-f343-433c-9c71-d5384abe6695,Nelson PLC,Software,1-50,27112903.0,Cote d'Ivoire,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+bf987fa1-20ad-402e-b466-d756d0ea60e5,"Cooper, Watts and Farrell",Fintech,201-500,44102776.6,Madagascar,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+fc014bdd-dbc7-4630-8ff1-2eec3abff1d4,King-Odonnell,Healthcare,51-200,22190136.36,Austria,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+0ac4449b-a24f-4ac2-9462-5fc7ff19ed9e,Walters LLC,Retail,1000+,887243.8,Aruba,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+b0e2de1c-dc57-42a8-b396-f1fabfaf094d,Cook and Sons,Education,1-50,46977035.19,Northern Mariana Islands,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+2f16e53f-78ba-43ca-a719-f9ed261aaba7,Martin-Ramos,Software,1-50,37249625.86,Romania,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+8ed59a61-8764-4c36-8390-a96b95eb6f45,Hoffman-Rodriguez,Healthcare,1000+,10926167.91,Western Sahara,c80a00e5-95ef-44de-b514-aea8db6912a3,Active
+6f0880ec-d805-4a7a-af38-1106b3b0532d,"Mckee, Gardner and Davenport",Education,201-500,25517748.38,Myanmar,d5890796-ac76-468e-92d8-09fd70046c44,Active
+9924ac2a-fa9e-4a40-b861-232103d62374,"Hernandez, Anderson and Parker",Software,501-1000,41552730.42,United Arab Emirates,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+0fac961e-1768-471c-810e-9a84fd0da2fe,Nolan and Sons,Healthcare,51-200,32037112.18,Pitcairn Islands,d5890796-ac76-468e-92d8-09fd70046c44,Active
+cce23fef-dc59-4113-9fb7-648fdc0ed846,Estrada LLC,Education,501-1000,27808180.85,Slovakia (Slovak Republic),e3203511-a249-4e5f-bf78-c6f03e33a5e9,Churned
+c5e9af02-7b22-4322-ac6e-664865315c69,"Henson, Russell and Oliver",Software,1-50,4224571.07,Cape Verde,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Churned
+d345a43d-872a-4bfd-a1d2-54784fd84827,Hancock and Sons,Software,201-500,29334223.54,Turkmenistan,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Prospect
+548229ea-2d9e-4100-80f8-1a67e5225b6e,Johnson-Doyle,Fintech,1-50,15758788.32,Grenada,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active
+660cde69-ef9e-4641-891d-5dfe235df1ae,Pham-Shields,Fintech,51-200,33513203.83,Sudan,c80a00e5-95ef-44de-b514-aea8db6912a3,Churned
+07bdb12d-b2f3-4350-a096-387e41ae9218,Adams Ltd,Manufacturing,1000+,37599141.75,Botswana,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+66b953e3-1e63-4262-8e70-72a22fbf9a4e,Brennan-Garrison,Fintech,501-1000,1726924.91,Cyprus,c80a00e5-95ef-44de-b514-aea8db6912a3,Prospect
+9e080023-b808-4ca9-885b-08eb98433a4c,Velasquez Group,Education,51-200,13706882.62,Guernsey,e59b2c61-87cd-4584-a516-cf537e007e77,Prospect
+c73145ac-db21-44e5-9723-1858f013c7ef,Hoover-Savage,Software,501-1000,11510469.02,Czech Republic,4ac8ece6-da0f-4857-b691-10cf6dacca56,Active
+27e16d77-7a5f-419a-8794-1219e246558d,Keller Group,Healthcare,51-200,11534715.59,Greenland,cfd43488-1975-45ad-9191-e49884bb93a3,Prospect
+fa1b9bdd-fc76-409b-b29e-4c32d2986f4d,Lin-Rasmussen,Healthcare,201-500,43285470.63,Fiji,d5890796-ac76-468e-92d8-09fd70046c44,Active
+f1da6988-abf6-4286-ba18-38ee8792438c,May-Ross,Education,1000+,20284080.03,Tajikistan,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+52d7184b-b74e-43fc-93e7-e18915fdf689,"Rivera, Johnson and Wiley",Software,1-50,43913401.37,Eritrea,d5890796-ac76-468e-92d8-09fd70046c44,Active
+9f1c04d0-aedd-4a4c-893d-8395f2873dff,Carpenter LLC,Retail,201-500,2393731.27,Argentina,952ff225-55cf-4bb9-8fa5-a15a99370db1,Prospect
+63de697b-a672-4a42-9596-d6d07b7125b5,Carlson LLC,Healthcare,201-500,22101497.25,Saint Lucia,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+68c21e14-47fc-438d-8d2b-a9338ab127a6,Graham-Joyce,Manufacturing,1000+,9908899.34,Brazil,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Prospect
+0d9594dd-21ef-483c-8cdc-36a0d494aa59,Lam-Lee,Software,1000+,46315970.69,Aruba,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+82ce8ce7-160a-4743-8b4a-0ae3ab0b5964,"Graham, Meyer and Drake",Healthcare,501-1000,3963703.65,Poland,c80a00e5-95ef-44de-b514-aea8db6912a3,Churned
+4a7b6196-4317-4ddc-8634-ecd737a76d71,"Bentley, Mclaughlin and Gonzalez",Healthcare,1-50,36127836.02,Jersey,d5890796-ac76-468e-92d8-09fd70046c44,Churned
+e2343e42-9e3f-4d69-82f1-30e74853eab8,Rush LLC,Healthcare,501-1000,16646053.79,Nigeria,d5890796-ac76-468e-92d8-09fd70046c44,Churned
+7fd44a0f-10d5-4151-bbb8-45670afaa586,Alvarado-Martinez,Fintech,51-200,21312093.52,United Arab Emirates,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Active
+5775990e-2bb1-4437-bda1-822fb71e961d,Hunter-Estrada,Retail,1000+,15397018.79,Greece,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+7fc73164-ec61-4d59-b827-a088ce9f0024,Terry-Spencer,Healthcare,201-500,10904042.9,Congo,952ff225-55cf-4bb9-8fa5-a15a99370db1,Churned
+e50c2a48-78ee-4208-af95-0494bbd599bf,Ortega-Gray,Education,201-500,23516915.42,San Marino,4ac8ece6-da0f-4857-b691-10cf6dacca56,Active
+7b530ff9-9180-4b65-8884-2d61e89c0d30,Gilbert LLC,Retail,501-1000,39789902.26,Iraq,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+86ed522f-be80-4c95-b681-a14460220c5c,"Bass, Torres and Clark",Healthcare,1000+,33360764.9,Solomon Islands,952ff225-55cf-4bb9-8fa5-a15a99370db1,Active
+ea47b81e-80e8-4bfd-9f6d-a457b92413fc,"Lawson, Morris and Ramos",Software,51-200,33803385.69,Peru,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+8d254fd3-484d-42e9-9b16-cc1e4a2f696b,Dixon Ltd,Fintech,1-50,2787579.05,Chile,4ac8ece6-da0f-4857-b691-10cf6dacca56,Churned
+ad8b116c-c984-4dcc-a53f-3b8e676cac7e,"Miller, Robertson and Schultz",Software,501-1000,21014830.04,Grenada,952ff225-55cf-4bb9-8fa5-a15a99370db1,Active
+7c5121bf-6fc1-43f6-862d-6a14c003e77d,Cardenas and Sons,Education,501-1000,24971669.87,Peru,cfd43488-1975-45ad-9191-e49884bb93a3,Active
+91c35e3a-0a55-4fc8-8a18-646d6a620527,Walker-Gonzalez,Education,1-50,44686661.4,Anguilla,e59b2c61-87cd-4584-a516-cf537e007e77,Prospect
+add9bd66-a5d5-4342-92ab-1e9c008a6003,Sanchez Group,Fintech,51-200,40303437.88,New Zealand,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Prospect
+8fd23f0f-3741-4bac-b6a8-92e67656ef2c,Gibson Ltd,Software,1000+,12835314.84,Morocco,e59b2c61-87cd-4584-a516-cf537e007e77,Prospect
+4b7d58f3-9da4-4fc5-8dae-7e10c9a1bb37,Higgins Group,Fintech,501-1000,33545097.76,Lithuania,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Churned
+76641e76-24cc-4abe-bce8-1fc12f987c6b,Sanchez-Douglas,Healthcare,501-1000,30826289.98,Albania,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Prospect
+aedee51b-2843-4446-974d-7b95f89cbf36,Osborne and Sons,Retail,501-1000,44911801.11,Christmas Island,4ac8ece6-da0f-4857-b691-10cf6dacca56,Prospect
+85f881f5-4d41-453e-b6d9-0b7cde62cff9,"Holmes, Williams and Wright",Healthcare,51-200,42073212.95,Thailand,d5890796-ac76-468e-92d8-09fd70046c44,Churned
+85a40263-1182-4656-b32d-2a1f6d5faf3a,Bryant Group,Manufacturing,51-200,14092573.62,Papua New Guinea,e59b2c61-87cd-4584-a516-cf537e007e77,Active
+e1a3b266-4665-48de-b610-4ffceadbb421,"Travis, Larson and Dodson",Fintech,201-500,17124453.06,Uganda,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+e76e8d09-47ec-4f7f-8c15-5f10f81f07c2,Salazar-Ball,Fintech,51-200,11947443.25,Madagascar,d3b6c0c8-89c5-44d9-8eb3-8f1e65e3a809,Active
+1bfcc146-cc12-4d5d-916e-eb7c8658bad4,Rivas-Kelley,Software,501-1000,20676168.8,Ukraine,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Prospect
+fe0c9bc4-73cc-4fef-bb4f-65d8aa270c4b,Manning Group,Manufacturing,1-50,10738302.28,Korea,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Prospect
+a5d975f7-b1bc-473b-85b1-647ba9a108be,Walton-Larsen,Retail,1-50,42908235.6,Falkland Islands (Malvinas),952ff225-55cf-4bb9-8fa5-a15a99370db1,Prospect
+f2e88504-06ff-45be-ae68-2331dad9760f,"Washington, Allen and Gonzales",Manufacturing,1-50,47165712.04,Rwanda,d5890796-ac76-468e-92d8-09fd70046c44,Prospect
+adda02fa-0a49-43c8-9037-92a4353875e2,Young-Rogers,Manufacturing,1000+,37502025.61,Uganda,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Churned
+293565a1-90e2-440c-bd1a-257e5373c6cf,"Miller, Hernandez and Reyes",Fintech,501-1000,11361370.91,Cape Verde,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Prospect
+1b5651f0-f9c2-4197-b01e-f491de2f0176,"Lewis, Perry and Rivera",Software,501-1000,17138412.41,Lao People's Democratic Republic,e3203511-a249-4e5f-bf78-c6f03e33a5e9,Active
+79e7737a-488c-438a-8578-a09a6277a5e2,Brown-Wall,Manufacturing,51-200,49045737.89,Iceland,459b46d9-0cd5-42f7-abf3-b24ed0094dda,Active
+cb3f35fb-682b-4d4c-858c-ed696b329811,"Shah, Smith and Gilmore",Manufacturing,1000+,28437403.16,Morocco,29cfe3cb-f9b3-48a8-977d-1e56261b4f7d,Active

@@ -1,0 +1,16 @@
+product_id,name,sku,category,unit_price
+08d99a45-863b-464f-a4be-92e824ba1a9f,Product A Premium,SKU-1000,Services,4339.78
+7c79d25b-61d2-4adc-9ad2-f2f0de3de31e,Product B Premium,SKU-1001,Services,2739.04
+f9b39dcb-a088-493b-8064-b46a2605c3e3,Product C Premium,SKU-1002,Services,1728.96
+a7c9d8bb-b1c0-4cab-9bc7-7773e008d8fd,Product D Premium,SKU-1003,Hardware,1948.33
+a684be17-8b0e-4f62-9048-75edee52b09c,Product E Premium,SKU-1004,Services,4361.05
+250d24fd-1292-495a-8bc0-dc5ee4b7abcd,Product F Premium,SKU-1005,Hardware,1270.15
+1233b869-bc27-4cf2-b5c6-2dcb724f1f25,Product G Premium,SKU-1006,Services,1244.46
+10106dca-f4f7-4122-a36b-cbe4320cbf42,Product H Premium,SKU-1007,Services,313.87
+8f67b686-c7da-4758-8b1c-0808d0a38dbe,Product I Premium,SKU-1008,Hardware,2417.58
+efbdd068-3525-46f3-afc9-155b4fb40b5f,Product J Premium,SKU-1009,Services,1991.79
+9c713008-52f4-4d91-a4b8-692297273f5c,Product K Premium,SKU-1010,Hardware,3982.73
+270845ca-fa92-4071-8c9c-b6f842a496be,Product L Premium,SKU-1011,Hardware,4906.01
+9babb22c-e856-499f-ac43-94ed6ba62a37,Product M Premium,SKU-1012,Services,4827.64
+ec3a70da-7e10-4f1e-a000-5d3cb06692c2,Product N Premium,SKU-1013,SaaS,2561.23
+5113d2fe-7936-4f37-90bd-70573e15c072,Product O Premium,SKU-1014,Hardware,1726.77
