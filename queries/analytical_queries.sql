@@ -9,7 +9,7 @@ WHERE risk_level = 'High Risk (No Activity)'
 ORDER BY amount DESC 
 LIMIT 5;
 
--- 2. Forecasting: View weighted revenue forecast for the next 3 months
+-- 2. Forecasting: View weighted revenue forecast for the next 3 months 
 SELECT * 
 FROM v_revenue_forecast 
 WHERE forecast_month >= CURRENT_DATE 
@@ -23,8 +23,8 @@ WHERE cohort_month IN (SELECT DISTINCT cohort_month FROM v_cohort_mrr ORDER BY c
 
 -- 4. Customer Segmentation: List 'Tier 1 (Strategic)' accounts by total revenue
 SELECT * 
-FROM v_customer_segments 
-WHERE customer_segment = 'Tier 1 (Strategic)' 
+FROM v_customer_segments  
+WHERE customer_segment = 'Tier 1 (Strategic)'
 ORDER BY total_revenue DESC;
 
 -- 5. Funnel Velocity: Identify stages where deals spend more than 30 days on average
